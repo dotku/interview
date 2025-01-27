@@ -1,5 +1,13 @@
 # interview
 
+## Tools
+
+- Job Board: LinkedIn, Indeed, Dice
+- Resume Improvoment: https://jobright.ai/
+- Appoinement: https://calendly.com/
+- Tracking System: https://docs.google.com/spreadsheets
+- AI Mockup: https://mercor.com/interviews
+
 ## Reference
 
 * https://www.frontendinterviewhandbook.com/companies/google-front-end-interview-questions
